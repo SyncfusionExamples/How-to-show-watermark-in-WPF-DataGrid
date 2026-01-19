@@ -1,6 +1,6 @@
-# How to Show the Watermark Text in GridNumericColumn of WPF DataGrid?
+# How to Show the Watermark Text in GridNumericColumn of UWP DataGrid?
 
-This sample show cases how to show the watermark text in the [WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) (SfDataGrid).
+This sample show cases how to show the watermark text in the [UWP DataGrid](https://www.syncfusion.com/uwp-ui-controls/datagrid) (SfDataGrid).
 
 You can show the `PlaceHolderText` for `GridNumericColumn` by loading the `SfNumericTextBox` as `GridNumeriColumn.CellTemplate` in `DataGrid`.
 
